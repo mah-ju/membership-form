@@ -30,4 +30,19 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+
+}
+
+input, select{
+  height: 38px;
+  border-radius: 5px;
+  background-color: rgba(163, 417, 150, 0.2);
+}
+
+
+textarea{
+  height: 170px;
+  border-radius: 5px;
+  background-color: rgba(163, 417, 150, 0.2);
+  resize: none;
 }
