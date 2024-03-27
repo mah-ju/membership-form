@@ -8,11 +8,19 @@ This project is a responsive membership application form developed using [React.
 ## Features 💡
 
 
-- Registration form with fields for name, address, country, zip code, email, phone, and message.
+- Registration form with fields for name, address, email, phone and message.
 
 - Real-time input validation with detailed error messages.
 
 - Display a confirmation modal after successful form submission, showing the provided first name, last name, and email.
+
+## Technologies ⚙️
+
+![Static badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+
+![Static badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Overview 📱
 
