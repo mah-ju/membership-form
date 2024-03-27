@@ -12,7 +12,7 @@ This project is a responsive membership application form developed using [React.
 
 - Real-time input validation with detailed error messages.
 
-- Display a confirmation modal after successful form submission, showing the provided first name, last name, and email.
+- Display a confirmation modal after successful form submission, showing the provided first name, last name and email.
 
 ## Technologies ⚙️
 
